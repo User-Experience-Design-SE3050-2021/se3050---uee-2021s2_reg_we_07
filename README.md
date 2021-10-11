@@ -16,5 +16,8 @@ App Name: Bank of Ceylon Mobile Banking
 Developer: Bank of Ceylon 
 
 
+> Version controlled github link => [github.com/cawizca/BOC_Android](https://github.com/cawizca/BOC_Android/)
+
+
 
 
